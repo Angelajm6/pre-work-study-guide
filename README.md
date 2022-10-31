@@ -2,7 +2,7 @@
 
 ## Description
 
-Thie Prework Study Guide was created for boot camp students who were going trough the Prework. It contains notes on HTML, CSS, Git and JavaScriipt.
+This Prework Study Guide was created for boot camp students who were going trough the Prework. It contains notes on HTML, CSS, Git and JavaScriipt.
 
 ## Installation
 
